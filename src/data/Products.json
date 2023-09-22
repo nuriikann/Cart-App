@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Elma",
+        "price": 10,
+        "imgUrl": "/images/Red_Apple.jpg",
+        "category": "Meyve"
+    },
+    {
+        "id": 2,
+        "name": "Armut",
+        "price": 10,
+        "imgUrl": "/images/armut.jpg",
+        "category": "Meyve"
+    },
+    {
+        "id": 3,
+        "name": "Şeftali",
+        "price": 15,
+        "imgUrl": "/images/seftali.jpg",
+        "category": "Meyve"
+    },
+    {
+        "id": 4,
+        "name": "Erik",
+        "price": 20,
+        "imgUrl": "/images/erik.jpg",
+        "category": "Meyve"
+    },
+    {
+        "id": 5,
+        "name": "Pırasa",
+        "price": 30,
+        "imgUrl": "/images/pirasa.jpg",
+        "category": "Sebze"
+    },
+    {
+        "id": 6,
+        "name": "Patlıcan",
+        "price": 25,
+        "imgUrl": "/images/patlican.jpg",
+        "category": "Sebze"
+    },
+    {
+        "id": 7,
+        "name": "Enginar",
+        "price": 55,
+        "imgUrl": "/images/enginar.jpg",
+        "category": "Sebze"
+    },
+    {
+        "id": 8,
+        "name": "Maydonoz",
+        "price": 5,
+        "imgUrl": "/images/maydonoz.jpg",
+        "category": "Sebze"
+    }
+]
